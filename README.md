@@ -1,5 +1,7 @@
 ### Tasks
 
+https://www.codecademy.com/users/annahlv/achievements
+
 - Stage #1
   * [Welcome Aboard!](https://github.com/rolling-scopes-school/tasks/blob/2017-Q3/tasks/welcome-aboard.md)
   * Front-end basics
